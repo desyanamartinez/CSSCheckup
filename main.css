@@ -1,0 +1,44 @@
+/*For Assignment*/
+/* body will be black*/
+body{
+    background-color: red;
+}
+h1 {
+    text-align: center;
+}
+/* spice class will be red*/
+.spice {
+  
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+        padding-right: 20px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+       
+}
+/*spice h2 will be white */
+.spice h2{
+    color: white;
+   
+}
+/*spice class p will be green */
+.spice p{
+    color: green;
+}
+/* list id will be red*/
+#list {
+    color: tomato;
+    /***********************************************************/
+}
+#sillyfont {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+     
+}
+#img    {
+    border: 25px groove red;
+   
+    width: 200px;
+    height: 300px;
+}
